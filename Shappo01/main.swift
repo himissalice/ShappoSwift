@@ -13,6 +13,6 @@ print("Hey, Shappo~Shappo~")
 
 var a = Int.max
 print(a)
-var b = a - 1
-print(b)
+//var b = a - 1
+//print(b)
 
